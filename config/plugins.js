@@ -3,11 +3,11 @@ module.exports = ({ env }) => ({
     config: {
       provider: "aws-s3",
       providerOptions: {
-        accessKeyId: "AKIAXOGXXODN5AKWP26R",
-        secretAccessKey: "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",
+        accessKeyId: "AKIA5IRSBWYSBQBC3MY3",
+        secretAccessKey: "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",
         region: "eu-west-1",
         params: {
-          Bucket: "ecommerce-strapi-games",
+          Bucket: "ecommerce-stripe",
         },
       },
     },
